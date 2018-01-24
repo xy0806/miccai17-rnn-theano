@@ -10,3 +10,4 @@ More information can be found from the project page and the published conference
 The implementation is originally adapted from uyaseen:https://github.com/uyaseen/theano-recurrence.
 
 Library: Theano.
+Based on the prediction map of different classes, the training of BiLSTM can be run with the ds_rnn_train.py.
